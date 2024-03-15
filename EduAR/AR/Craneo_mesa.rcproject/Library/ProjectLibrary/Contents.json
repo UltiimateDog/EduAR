@@ -1,0 +1,47 @@
+[
+  {
+    "format" : "model",
+    "displayName" : "huesoFrontal.usdz",
+    "libraryIdentifier" : "8c151b0163c1478d99d8eb5a4fd8e0e6"
+  },
+  {
+    "libraryIdentifier" : "e29a6129cf62b8db74b2a716d787ebee",
+    "format" : "model",
+    "displayName" : "Visible_Interactive_Human_-_Exploding_skull.usdz"
+  },
+  {
+    "libraryIdentifier" : "b4921464dcd4ab664eb1fbe7d6879f01",
+    "displayName" : "huesoNasal.usdz",
+    "format" : "model"
+  },
+  {
+    "format" : "model",
+    "displayName" : "parietal.usdz",
+    "libraryIdentifier" : "1380b150aa22773c593b72d5e72d1a31"
+  },
+  {
+    "libraryIdentifier" : "782cde354acbe9bec7ccf0f074f9a0b1",
+    "format" : "model",
+    "displayName" : "temporales.usdz"
+  },
+  {
+    "displayName" : "maxilares.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "45825801e8563d2b95fe082f6dca3014"
+  },
+  {
+    "format" : "model",
+    "libraryIdentifier" : "31e204191c350028f3e4cfc51582c027",
+    "displayName" : "cigomatico.usdz"
+  },
+  {
+    "format" : "model",
+    "displayName" : "mandibula.usdz",
+    "libraryIdentifier" : "b10beba119da321b0c5ab87ff5f977e7"
+  },
+  {
+    "displayName" : "restoDelCraneo.usdz",
+    "libraryIdentifier" : "6ea321c47fc39e0f4a45f28197ef23df",
+    "format" : "model"
+  }
+]

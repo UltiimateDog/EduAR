@@ -1,0 +1,37 @@
+[
+  {
+    "displayName" : "TibiaYPerone.usdz",
+    "libraryIdentifier" : "f7689bcea1c8f9390d0e71316611c691",
+    "format" : "model"
+  },
+  {
+    "displayName" : "CostillaYColumnaV.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "7290cfeb46b3cbf956fd14c29dc78ac0"
+  },
+  {
+    "format" : "model",
+    "displayName" : "craneo.usdz",
+    "libraryIdentifier" : "1ee7e497d6e8a6a5060e70578b81c9e2"
+  },
+  {
+    "displayName" : "esqueletoCompletoReferencia.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "7eef9c3c88a43acd2b81bdb24ba2764e"
+  },
+  {
+    "libraryIdentifier" : "65c651417528f7ab7fb88f5cde587349",
+    "format" : "model",
+    "displayName" : "femures.usdz"
+  },
+  {
+    "displayName" : "HumeroCubitoRadio.usdz",
+    "libraryIdentifier" : "5fa9d62a4a64a2d947d62929c920fbdc",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "3f3aabb440221c0903fe9e5c0a05f4d9",
+    "format" : "model",
+    "displayName" : "pelvis.usdz"
+  }
+]
